@@ -1,11 +1,11 @@
 # One_4_All
 
-Project: Interest-Based Group Chatting Portal
+<h1>Project: Interest-Based Group Chatting Portal</h1>
 
-Overview:
+###Overview:
 In this project, you'll build a web-based platform where users can sign in, create interest groups, and engage in real-time chatting within those groups. Each interest group will be managed by a microservice, and Kubernetes will be used to manage the deployment and scaling of these microservices.
 
-Microservices:
+###Microservices:
 
 User Service: Handles user authentication, registration, and user profile management.
 Interest Service: Manages the creation, listing, and categorization of interest groups.
