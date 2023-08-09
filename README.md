@@ -11,7 +11,8 @@ User Service: Handles user authentication, registration, and user profile manage
 Interest Service: Manages the creation, listing, and categorization of interest groups.
 Chat Service: Provides real-time messaging functionality for users within a specific interest group.
 Notification Service (Optional): Sends notifications to users when there are new messages or updates in their interest groups.
-Technologies:
+
+### Technologies:
 
 Frontend: React.js or Vue.js for building the user interface.
 Backend: Node.js or Python with Flask/Django for building microservices.
