@@ -3,7 +3,7 @@
 <h1>Project: Interest-Based Group Chatting Portal</h1>
 
 ### Overview:
-In this project, you'll build a web-based platform where users can sign in, create interest groups, and engage in real-time chatting within those groups. Each interest group will be managed by a microservice, and Kubernetes will be used to manage the deployment and scaling of these microservices.
+In this project, we'll build a web-based platform where users can sign in, create interest groups, and engage in real-time chatting within those groups. Each interest group will be managed by a microservice, and Kubernetes will be used to manage the deployment and scaling of these microservices.
 
 ### Microservices:
 
@@ -24,13 +24,13 @@ UI Framework: Use a UI framework like Bootstrap or Material-UI for consistent st
 Project Steps:
 
 User Registration and Authentication:
-Build the user service microservice that handles user registration, login, and user profile management.
+User service microservice that handles user registration, login, and user profile management.
 
 Interest Group Management:
-Develop the interest service microservice that allows users to create, list, and categorize interest groups.
+Interest service microservice that allows users to create, list, and categorize interest groups.
 
 Real-time Chatting Interface:
-Create the chat service microservice that provides real-time messaging within interest groups using WebSockets.
+Chat service microservice that provides real-time messaging within interest groups using WebSockets.
 
 Frontend Development:
 Develop the user interface using React.js or Vue.js. Users should be able to sign in, create interest groups, join groups, and participate in group chats.
